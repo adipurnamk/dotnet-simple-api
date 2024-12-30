@@ -11,7 +11,7 @@ SimpleApi is a simple .NET Core Web API that provides a current time endpoint.
 
 ### Using .NET CLI
 ```bash
-cd SimpleApi
+cd dotnet-simple-api
 dotnet restore
 dotnet run
 ```
@@ -42,9 +42,9 @@ ASP.NET Core Web API
 Swagger/OpenAPI
 
 # Development
-Clone the repository
-Restore dependencies: dotnet restore
-Run the application: dotnet run
+- Clone the repository
+- Restore dependencies: dotnet restore
+- Run the application: dotnet run
 
 # Deployment
 The application can be deployed using:
