@@ -48,7 +48,6 @@ Swagger/OpenAPI
 
 # Deployment
 The application can be deployed using:
-
-Kestrel server
-Docker
-Cloud platforms supporting .NET Core
+- Kestrel server
+- Docker
+- Cloud platforms supporting .NET Core
